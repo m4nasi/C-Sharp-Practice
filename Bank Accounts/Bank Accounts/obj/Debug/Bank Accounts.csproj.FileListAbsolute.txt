@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Bank Accounts\Bank Accounts\bin\Debug\Bank Accounts.exe.config
+C:\Users\Asus\source\repos\Bank Accounts\Bank Accounts\bin\Debug\Bank Accounts.exe
+C:\Users\Asus\source\repos\Bank Accounts\Bank Accounts\bin\Debug\Bank Accounts.pdb
+C:\Users\Asus\source\repos\Bank Accounts\Bank Accounts\obj\Debug\Bank Accounts.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Bank Accounts\Bank Accounts\obj\Debug\Bank Accounts.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Bank Accounts\Bank Accounts\obj\Debug\Bank Accounts.exe
+C:\Users\Asus\source\repos\Bank Accounts\Bank Accounts\obj\Debug\Bank Accounts.pdb

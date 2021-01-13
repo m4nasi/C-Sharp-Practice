@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\RW\RW\bin\Debug\RW.exe.config
+C:\Users\Asus\source\repos\RW\RW\bin\Debug\RW.exe
+C:\Users\Asus\source\repos\RW\RW\bin\Debug\RW.pdb
+C:\Users\Asus\source\repos\RW\RW\obj\Debug\RW.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\RW\RW\obj\Debug\RW.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\RW\RW\obj\Debug\RW.exe
+C:\Users\Asus\source\repos\RW\RW\obj\Debug\RW.pdb

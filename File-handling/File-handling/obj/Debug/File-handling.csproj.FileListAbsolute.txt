@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\File-handling\File-handling\obj\Debug\File-handling.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\File-handling\File-handling\obj\Debug\File-handling.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\File-handling\File-handling\bin\Debug\File-handling.exe.config
+C:\Users\Asus\source\repos\File-handling\File-handling\bin\Debug\File-handling.exe
+C:\Users\Asus\source\repos\File-handling\File-handling\bin\Debug\File-handling.pdb
+C:\Users\Asus\source\repos\File-handling\File-handling\obj\Debug\File-handling.exe
+C:\Users\Asus\source\repos\File-handling\File-handling\obj\Debug\File-handling.pdb

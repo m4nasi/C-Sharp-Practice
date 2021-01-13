@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\School-timetable\School-timetable\obj\Debug\School-timetable.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\School-timetable\School-timetable\obj\Debug\School-timetable.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\School-timetable\School-timetable\bin\Debug\School-timetable.exe.config
+C:\Users\Asus\source\repos\School-timetable\School-timetable\bin\Debug\School-timetable.exe
+C:\Users\Asus\source\repos\School-timetable\School-timetable\bin\Debug\School-timetable.pdb
+C:\Users\Asus\source\repos\School-timetable\School-timetable\obj\Debug\School-timetable.exe
+C:\Users\Asus\source\repos\School-timetable\School-timetable\obj\Debug\School-timetable.pdb
