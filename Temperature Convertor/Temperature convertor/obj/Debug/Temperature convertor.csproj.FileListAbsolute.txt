@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\Temperature convertor\Temperature convertor\obj\Debug\Temperature convertor.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Temperature convertor\Temperature convertor\obj\Debug\Temperature convertor.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Temperature convertor\Temperature convertor\bin\Debug\Temperature convertor.exe.config
+C:\Users\Asus\source\repos\Temperature convertor\Temperature convertor\bin\Debug\Temperature convertor.exe
+C:\Users\Asus\source\repos\Temperature convertor\Temperature convertor\bin\Debug\Temperature convertor.pdb
+C:\Users\Asus\source\repos\Temperature convertor\Temperature convertor\obj\Debug\Temperature convertor.exe
+C:\Users\Asus\source\repos\Temperature convertor\Temperature convertor\obj\Debug\Temperature convertor.pdb
